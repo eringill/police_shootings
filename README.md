@@ -6,7 +6,7 @@ Data Source
 This dataset was downloaded from [Kaggle](https://www.kaggle.com/). It contains information on individuals who were shot and killed by police between Jan 1 2015 and Jun 14 2020.
 
 
-It contains victims' names, the date they were shot, how they were killed, whether they were armend (and how they were armed), victims' ages, 
+It contains victims' names, the date they were shot, how they were killed, whether they were armed (and how they were armed), victims' ages, 
 victims' races, the cities and states in which the victims were killed, whether the victims showed any signs of mental illness, the victims' genders, 
 whether (and how) the victims were fleeing, the victims' threat levels (were they attacking or not), and whether or not the police were wearing body cameras.
 
