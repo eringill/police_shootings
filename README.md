@@ -1,5 +1,5 @@
-Factors that are Correlated With the Victim's Age in US Police Shootings
-========================================================================
+Factors that are Correlated With Victims' Ages in US Police Shootings
+=====================================================================
 
 Data Source
 -----------
