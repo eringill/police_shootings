@@ -27,6 +27,7 @@ there are many very valid questions surrounding this issue, I wanted to explore 
 
 Required Libraries
 ------------------
+* python
 * pandas
 * matplotlib.pyplot
 * seaborn
