@@ -1,12 +1,12 @@
-Factors that are Correlated With the Victim's Age in US Police Shootings
-========================================================================
+Factors that are Correlated With Victims' Ages in US Police Shootings
+=====================================================================
 
 Data Source
 -----------
 This dataset was downloaded from [Kaggle](https://www.kaggle.com/). It contains information on individuals who were shot and killed by police between Jan 1 2015 and Jun 14 2020.
 
 
-It contains victims' names, the date they were shot, how they were killed, whether they were armend (and how they were armed), victims' ages, 
+It contains victims' names, the date they were shot, how they were killed, whether they were armed (and how they were armed), victims' ages, 
 victims' races, the cities and states in which the victims were killed, whether the victims showed any signs of mental illness, the victims' genders, 
 whether (and how) the victims were fleeing, the victims' threat levels (were they attacking or not), and whether or not the police were wearing body cameras.
 
@@ -45,8 +45,7 @@ Results
 * The type of weapon a victim has in their possession is 
 correlated with their age. 
 * Being unarmed is inversely 
-correlated with age, so younger people are most likely to be shot while unarmed 
-or armed with hand tools.
+correlated with age, so younger people are most likely to be shot while unarmed.
 
 * Age is also inversely correlated with being Native, Black, Hispanic or "Other", 
 while it is positively correlated with being White. 
