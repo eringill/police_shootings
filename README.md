@@ -45,8 +45,7 @@ Results
 * The type of weapon a victim has in their possession is 
 correlated with their age. 
 * Being unarmed is inversely 
-correlated with age, so younger people are most likely to be shot while unarmed 
-or armed with hand tools.
+correlated with age, so younger people are most likely to be shot while unarmed.
 
 * Age is also inversely correlated with being Native, Black, Hispanic or "Other", 
 while it is positively correlated with being White. 
