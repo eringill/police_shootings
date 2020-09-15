@@ -27,6 +27,7 @@ there are many very valid questions surrounding this issue, I wanted to explore 
 
 Required Libraries
 ------------------
+* python
 * pandas
 * matplotlib.pyplot
 * seaborn
@@ -61,6 +62,6 @@ and Maine are likely to be older.
 Next Steps
 ----------
 * It would be informative to compare the distributions of victims' ages in the various states with the distributions
-of the ages of the inhabitants of those states. Are they similar?
+of the ages and races of the inhabitants of those states. Are they similar?
 
 
