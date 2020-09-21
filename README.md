@@ -33,6 +33,8 @@ Required Libraries
 * seaborn
 * sklearn
 * numpy
+* scipy.stats
+* scikit_posthocs
 
 Files
 -----
@@ -56,8 +58,7 @@ while it is positively correlated with being White.
 * The median age of unarmed victims is lower than victims who possess almost any other type of arms.
 
 * The state in which the victim is shot is
-correlated with the victim's age. Individuals who are shot in Rhode Island, New York, the District of Columbia 
-and Maine are likely to be older.
+correlated with the victim's age.
 
 I've written a blog post on [Medium](https://medium.com/@erin.gill81/this-is-what-the-data-on-us-police-shootings-say-about-victims-ages-5a34b7e04c07) that describes my findings.
 
